@@ -1,0 +1,5196 @@
+{
+  "root": "C:/Users/sarah/nuxt-starter",
+  "modules": [
+    {
+      "id": "C:/Users/sarah/nuxt-starter/.nuxt/app.config.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 88
+        },
+        {
+          "name": "vite:define",
+          "transform": 147
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 235,
+      "invokeCount": 1,
+      "sourceSize": 391,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/app.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 113
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 116,
+      "invokeCount": 1,
+      "sourceSize": 119,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 77
+        },
+        {
+          "name": "vite:vue",
+          "transform": 8
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 88,
+      "invokeCount": 1,
+      "sourceSize": 5283,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue?vue&type=style&index=0&scoped=ccd3db62&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 159
+        },
+        {
+          "name": "vite:vue",
+          "transform": 19
+        }
+      ],
+      "virtual": true,
+      "totalTime": 178,
+      "invokeCount": 1,
+      "sourceSize": 3195,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 89
+        },
+        {
+          "name": "vite:vue",
+          "transform": 4
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 3
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 96,
+      "invokeCount": 1,
+      "sourceSize": 3283,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue?vue&type=style&index=0&scoped=df79c84d&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 153
+        },
+        {
+          "name": "vite:vue",
+          "transform": 5
+        }
+      ],
+      "virtual": true,
+      "totalTime": 158,
+      "invokeCount": 1,
+      "sourceSize": 1494,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 97
+        },
+        {
+          "name": "vite:vue",
+          "transform": 4
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 102,
+      "invokeCount": 1,
+      "sourceSize": 4089,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue?vue&type=style&index=0&scoped=51ccc917&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 151
+        },
+        {
+          "name": "vite:vue",
+          "transform": 4
+        }
+      ],
+      "virtual": true,
+      "totalTime": 155,
+      "invokeCount": 1,
+      "sourceSize": 1946,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@unhead/dom/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 105
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 105,
+      "invokeCount": 1,
+      "sourceSize": 5233,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@unhead/shared/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 81
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 81,
+      "invokeCount": 1,
+      "sourceSize": 20453,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@unhead/vue/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 100
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 100,
+      "invokeCount": 1,
+      "sourceSize": 3936,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@unhead/vue/dist/shared/vue.cf295fb1.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 90
+        },
+        {
+          "name": "vite:define",
+          "transform": 73
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 163,
+      "invokeCount": 1,
+      "sourceSize": 2633,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@unhead/vue/dist/shared/vue.f36acd1f.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 86
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 86,
+      "invokeCount": 1,
+      "sourceSize": 1035,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@vue/devtools-api/lib/esm/api/api.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 53
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 53,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@vue/devtools-api/lib/esm/api/app.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 55
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 55,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@vue/devtools-api/lib/esm/api/component.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 52
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 52,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@vue/devtools-api/lib/esm/api/context.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 53
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 53,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@vue/devtools-api/lib/esm/api/hooks.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 54
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 54,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@vue/devtools-api/lib/esm/api/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 198
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 198,
+      "invokeCount": 1,
+      "sourceSize": 169,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@vue/devtools-api/lib/esm/api/util.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 54
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 54,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@vue/devtools-api/lib/esm/const.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 197
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 197,
+      "invokeCount": 1,
+      "sourceSize": 114,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@vue/devtools-api/lib/esm/env.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 196
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 196,
+      "invokeCount": 1,
+      "sourceSize": 457,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@vue/devtools-api/lib/esm/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 88
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 88,
+      "invokeCount": 1,
+      "sourceSize": 1021,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@vue/devtools-api/lib/esm/plugin.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 204
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 204,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@vue/devtools-api/lib/esm/proxy.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 199
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 199,
+      "invokeCount": 1,
+      "sourceSize": 3535,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@vue/devtools-api/lib/esm/time.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 198
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 198,
+      "invokeCount": 1,
+      "sourceSize": 652,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 16
+        },
+        {
+          "name": "vite:define",
+          "transform": 5
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 21,
+      "invokeCount": 1,
+      "sourceSize": 34962,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 104
+        },
+        {
+          "name": "vite:define",
+          "transform": 173
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 277,
+      "invokeCount": 1,
+      "sourceSize": 251052,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 110
+        },
+        {
+          "name": "vite:define",
+          "transform": 40
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 150,
+      "invokeCount": 1,
+      "sourceSize": 49371,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@vue/shared/dist/shared.esm-bundler.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 88
+        },
+        {
+          "name": "vite:define",
+          "transform": 32
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 120,
+      "invokeCount": 1,
+      "sourceSize": 20762,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/cookie-es/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 88
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 6
+        }
+      ],
+      "virtual": false,
+      "totalTime": 88,
+      "invokeCount": 1,
+      "sourceSize": 3644,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/defu/dist/defu.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 92
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 4
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 92,
+      "invokeCount": 1,
+      "sourceSize": 2052,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/destr/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 114
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 4
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 114,
+      "invokeCount": 1,
+      "sourceSize": 2206,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/devalue/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 130
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 130,
+      "invokeCount": 1,
+      "sourceSize": 141,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/devalue/src/constants.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 202
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 202,
+      "invokeCount": 1,
+      "sourceSize": 183,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/devalue/src/parse.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 83
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 83,
+      "invokeCount": 1,
+      "sourceSize": 3053,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/devalue/src/stringify.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 81
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 81,
+      "invokeCount": 1,
+      "sourceSize": 4304,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/devalue/src/uneval.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 79
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 79,
+      "invokeCount": 1,
+      "sourceSize": 6924,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/devalue/src/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 204
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 204,
+      "invokeCount": 1,
+      "sourceSize": 1944,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/h3/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 224
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 3
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 224,
+      "invokeCount": 1,
+      "sourceSize": 70063,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/hookable/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 83
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 83,
+      "invokeCount": 1,
+      "sourceSize": 8302,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/iron-webcrypto/dist/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 86
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 3
+        }
+      ],
+      "virtual": false,
+      "totalTime": 86,
+      "invokeCount": 1,
+      "sourceSize": 11166,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/klona/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 84
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 84,
+      "invokeCount": 1,
+      "sourceSize": 1531,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/compat/idle-callback.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 128
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 129,
+      "invokeCount": 1,
+      "sourceSize": 456,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/components/injections.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 77
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 77,
+      "invokeCount": 1,
+      "sourceSize": 103,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/components/island-renderer.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 99
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 99,
+      "invokeCount": 1,
+      "sourceSize": 711,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/components/nuxt-error-page.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 99
+        },
+        {
+          "name": "vite:vue",
+          "transform": 13
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:build-import-analysis",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 112,
+      "invokeCount": 1,
+      "sourceSize": 1732,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/components/nuxt-link.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 176
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 177,
+      "invokeCount": 1,
+      "sourceSize": 10768,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/components/nuxt-root.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 112
+        },
+        {
+          "name": "vite:vue",
+          "transform": 34
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:tree-shake-composables:transform",
+          "transform": 5
+        },
+        {
+          "name": "vite:build-import-analysis",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 153,
+      "invokeCount": 1,
+      "sourceSize": 2567,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/components/route-provider.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 167
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 215
+        }
+      ],
+      "virtual": false,
+      "totalTime": 167,
+      "invokeCount": 1,
+      "sourceSize": 1419,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/components/test-component-wrapper.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 116
+        },
+        {
+          "name": "vite:build-import-analysis",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 117,
+      "invokeCount": 1,
+      "sourceSize": 943,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/components/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 129
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 182
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        }
+      ],
+      "virtual": false,
+      "totalTime": 129,
+      "invokeCount": 1,
+      "sourceSize": 3574,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/composables/chunk.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 82
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 83,
+      "invokeCount": 1,
+      "sourceSize": 889,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/composables/error.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 45
+        },
+        {
+          "name": "replace",
+          "transform": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 47,
+      "invokeCount": 1,
+      "sourceSize": 1236,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/composables/manifest.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 106
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 162
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 106,
+      "invokeCount": 1,
+      "sourceSize": 1309,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/composables/payload.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 85
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:build-import-analysis",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 86,
+      "invokeCount": 1,
+      "sourceSize": 3826,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/composables/preload.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 57
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 57,
+      "invokeCount": 1,
+      "sourceSize": 1600,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/composables/ready.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 90
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 90,
+      "invokeCount": 1,
+      "sourceSize": 412,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/composables/router.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 205
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 89
+        },
+        {
+          "name": "alias",
+          "resolveId": 57
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        }
+      ],
+      "virtual": false,
+      "totalTime": 205,
+      "invokeCount": 1,
+      "sourceSize": 5939,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/config.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 94
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:define",
+          "transform": 66
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 160,
+      "invokeCount": 1,
+      "sourceSize": 1574,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/entry.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1
+        },
+        {
+          "name": "replace",
+          "transform": 3
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4,
+      "invokeCount": 1,
+      "sourceSize": 2390,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/middleware/manifest-route-rule.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 94
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 94,
+      "invokeCount": 1,
+      "sourceSize": 527,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/nuxt.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 41
+        },
+        {
+          "name": "replace",
+          "transform": 3
+        },
+        {
+          "name": "vite:define",
+          "transform": 86
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 197
+        },
+        {
+          "name": "alias",
+          "resolveId": 36
+        },
+        {
+          "name": "alias",
+          "resolveId": 26
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 130,
+      "invokeCount": 1,
+      "sourceSize": 7278,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/plugins/check-outdated-build.client.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 92
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 92,
+      "invokeCount": 1,
+      "sourceSize": 814,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/plugins/chunk-reload.client.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 108
+        }
+      ],
+      "virtual": false,
+      "totalTime": 108,
+      "invokeCount": 1,
+      "sourceSize": 1042,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/plugins/payload.client.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 88
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 89,
+      "invokeCount": 1,
+      "sourceSize": 1107,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/plugins/revive-payload.client.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 110
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 112,
+      "invokeCount": 1,
+      "sourceSize": 1661,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 5
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 5,
+      "invokeCount": 1,
+      "sourceSize": 84,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/head/runtime/plugins/unhead.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 83
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 83,
+      "invokeCount": 1,
+      "sourceSize": 1315,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/pages/runtime/page.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 102
+        },
+        {
+          "name": "replace",
+          "transform": 4
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 106,
+      "invokeCount": 1,
+      "sourceSize": 5920,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/pages/runtime/plugins/prefetch.client.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 95
+        }
+      ],
+      "virtual": false,
+      "totalTime": 95,
+      "invokeCount": 1,
+      "sourceSize": 1243,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/pages/runtime/plugins/router.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 29
+        },
+        {
+          "name": "replace",
+          "transform": 2
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 15
+        }
+      ],
+      "virtual": false,
+      "totalTime": 46,
+      "invokeCount": 1,
+      "sourceSize": 8341,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/pages/runtime/router.options.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 94
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 94,
+      "invokeCount": 1,
+      "sourceSize": 1742,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/pages/runtime/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 88
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 88,
+      "invokeCount": 1,
+      "sourceSize": 873,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/pages/runtime/validate.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 100
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 101,
+      "invokeCount": 1,
+      "sourceSize": 974,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/ofetch/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 32
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 32,
+      "invokeCount": 1,
+      "sourceSize": 891,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/ofetch/dist/shared/ofetch.37386b05.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 96
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 96,
+      "invokeCount": 1,
+      "sourceSize": 8921,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/ohash/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 89
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 5
+        }
+      ],
+      "virtual": false,
+      "totalTime": 89,
+      "invokeCount": 1,
+      "sourceSize": 20179,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/pathe/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 107
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 107,
+      "invokeCount": 1,
+      "sourceSize": 272,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/pathe/dist/shared/pathe.ff20891b.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 197
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 197,
+      "invokeCount": 1,
+      "sourceSize": 6539,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/radix3/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 95
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 5
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 3
+        }
+      ],
+      "virtual": false,
+      "totalTime": 95,
+      "invokeCount": 1,
+      "sourceSize": 7360,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/ufo/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 94
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 6
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 94,
+      "invokeCount": 1,
+      "sourceSize": 19610,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/uncrypto/dist/crypto.web.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 93
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 3
+        }
+      ],
+      "virtual": false,
+      "totalTime": 93,
+      "invokeCount": 1,
+      "sourceSize": 348,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/unctx/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 105
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 105,
+      "invokeCount": 1,
+      "sourceSize": 3878,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/unenv/runtime/_internal/utils.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 99
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 99,
+      "invokeCount": 1,
+      "sourceSize": 895,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/unenv/runtime/node/events/_events.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 54
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 54,
+      "invokeCount": 1,
+      "sourceSize": 6481,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/unenv/runtime/node/events/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 196
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 196,
+      "invokeCount": 1,
+      "sourceSize": 218,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/unenv/runtime/node/http/_request.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 94
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 94,
+      "invokeCount": 1,
+      "sourceSize": 1129,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/unenv/runtime/node/http/_response.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 94
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 94,
+      "invokeCount": 1,
+      "sourceSize": 2193,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/unenv/runtime/node/net/socket.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 98
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 98,
+      "invokeCount": 1,
+      "sourceSize": 1425,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/unenv/runtime/node/stream/duplex.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 198
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 198,
+      "invokeCount": 1,
+      "sourceSize": 678,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/unenv/runtime/node/stream/readable.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 100
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 100,
+      "invokeCount": 1,
+      "sourceSize": 2697,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/unenv/runtime/node/stream/writable.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 100
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 100,
+      "invokeCount": 1,
+      "sourceSize": 2357,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/unhead/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 92
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 92,
+      "invokeCount": 1,
+      "sourceSize": 20479,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/vue-router/dist/vue-router.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 125
+        },
+        {
+          "name": "vite:define",
+          "transform": 61
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 186,
+      "invokeCount": 1,
+      "sourceSize": 147687,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 51
+        },
+        {
+          "name": "vite:define",
+          "transform": 186
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 4
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 237,
+      "invokeCount": 1,
+      "sourceSize": 580,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/pages/home.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 112
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 113,
+      "invokeCount": 1,
+      "sourceSize": 27,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/pages/home.vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 116
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 119,
+      "invokeCount": 1,
+      "sourceSize": 27,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/pages/page.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 108
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 109,
+      "invokeCount": 1,
+      "sourceSize": 27,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/pages/page.vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 128
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 129,
+      "invokeCount": 1,
+      "sourceSize": 27,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/app-component.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 62,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/components.islands.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 105,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/components.plugin.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 117,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/css.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 8
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 9
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 33,
+      "sourceSize": 0,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/error-component.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 112,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/fetch.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 8
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 168,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/layouts.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 17,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/middleware.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 336,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/nitro.client.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 70,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/nuxt.config.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 8
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 1165,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/pages.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 53,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/paths.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 1
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 8
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        }
+      ],
+      "virtual": true,
+      "totalTime": 1,
+      "invokeCount": 1,
+      "sourceSize": 641,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/plugins/client.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 8
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 1265,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/root-component.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 8
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 106,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/router.options.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 251,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/routes.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "vite:build-import-analysis",
+          "transform": 1
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        }
+      ],
+      "virtual": true,
+      "totalTime": 1,
+      "invokeCount": 1,
+      "sourceSize": 875,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/test-component-wrapper.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 115,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/unhead-plugins.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 17,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/vue-router-stub.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 27,
+      "distSize": 0
+    }
+  ],
+  "ssrModules": [
+    {
+      "id": "C:/Users/sarah/nuxt-starter/.nuxt/app.config.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 18
+        },
+        {
+          "name": "vite:define",
+          "transform": 12
+        },
+        {
+          "name": "alias",
+          "resolveId": 12
+        }
+      ],
+      "virtual": false,
+      "totalTime": 30,
+      "invokeCount": 1,
+      "sourceSize": 391,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/app.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 47
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 51,
+      "invokeCount": 1,
+      "sourceSize": 119,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 43
+        },
+        {
+          "name": "vite:vue",
+          "transform": 9
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 54,
+      "invokeCount": 1,
+      "sourceSize": 5283,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue?vue&type=style&index=0&scoped=ccd3db62&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 22
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 25,
+      "invokeCount": 1,
+      "sourceSize": 3195,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue?vue&type=style&index=0&scoped=ccd3db62&lang.css?inline&used",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 17
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 20,
+      "invokeCount": 1,
+      "sourceSize": 3195,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 90
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 95,
+      "invokeCount": 1,
+      "sourceSize": 3283,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue?vue&type=style&index=0&scoped=df79c84d&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 12
+        },
+        {
+          "name": "vite:vue",
+          "transform": 5
+        }
+      ],
+      "virtual": true,
+      "totalTime": 17,
+      "invokeCount": 1,
+      "sourceSize": 1494,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue?vue&type=style&index=0&scoped=df79c84d&lang.css?inline&used",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 12
+        },
+        {
+          "name": "vite:vue",
+          "transform": 4
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 16,
+      "invokeCount": 1,
+      "sourceSize": 1494,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 34
+        },
+        {
+          "name": "vite:vue",
+          "transform": 5
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 2
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 43,
+      "invokeCount": 1,
+      "sourceSize": 4089,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue?vue&type=style&index=0&scoped=51ccc917&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 12
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 15,
+      "invokeCount": 1,
+      "sourceSize": 1946,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@unhead/vue/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 34
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 4
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 34,
+      "invokeCount": 1,
+      "sourceSize": 3936,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@unhead/vue/dist/shared/vue.cf295fb1.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 50
+        },
+        {
+          "name": "vite:define",
+          "transform": 155
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 205,
+      "invokeCount": 1,
+      "sourceSize": 2633,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/@unhead/vue/dist/shared/vue.f36acd1f.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 51
+        },
+        {
+          "name": "nuxt:tree-shake-composables:transform",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 52,
+      "invokeCount": 1,
+      "sourceSize": 1035,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/compat/idle-callback.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 3
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 3,
+      "invokeCount": 1,
+      "sourceSize": 456,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/components/injections.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 39
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 39,
+      "invokeCount": 1,
+      "sourceSize": 103,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/components/island-renderer.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 41
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 41,
+      "invokeCount": 1,
+      "sourceSize": 711,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/components/nuxt-error-page.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 53
+        },
+        {
+          "name": "vite:vue",
+          "transform": 6
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 59,
+      "invokeCount": 1,
+      "sourceSize": 1732,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/components/nuxt-link.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 82
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:define",
+          "transform": 12
+        },
+        {
+          "name": "nuxt:tree-shake-composables:transform",
+          "transform": 4
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 99,
+      "invokeCount": 1,
+      "sourceSize": 10768,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/components/nuxt-root.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 20
+        },
+        {
+          "name": "vite:vue",
+          "transform": 11
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:define",
+          "transform": 15
+        }
+      ],
+      "virtual": false,
+      "totalTime": 47,
+      "invokeCount": 1,
+      "sourceSize": 2567,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/components/route-provider.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 50
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "nuxt:tree-shake-composables:transform",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 76
+        }
+      ],
+      "virtual": false,
+      "totalTime": 51,
+      "invokeCount": 1,
+      "sourceSize": 1419,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/components/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 100
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 115
+        },
+        {
+          "name": "alias",
+          "resolveId": 60
+        }
+      ],
+      "virtual": false,
+      "totalTime": 100,
+      "invokeCount": 1,
+      "sourceSize": 3574,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/composables/error.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 24
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 24,
+      "invokeCount": 1,
+      "sourceSize": 1236,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/composables/manifest.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 62
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 71
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 62,
+      "invokeCount": 1,
+      "sourceSize": 1309,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/composables/payload.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 39
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:define",
+          "transform": 15
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 55,
+      "invokeCount": 1,
+      "sourceSize": 3826,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/composables/preload.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4,
+      "invokeCount": 1,
+      "sourceSize": 1600,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/composables/ready.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 6
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 6,
+      "invokeCount": 1,
+      "sourceSize": 412,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/composables/router.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 63
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:define",
+          "transform": 27
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 56
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 91,
+      "invokeCount": 1,
+      "sourceSize": 5939,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/config.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 36
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:define",
+          "transform": 144
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 180,
+      "invokeCount": 1,
+      "sourceSize": 1574,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/entry.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 0
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:define",
+          "transform": 5
+        }
+      ],
+      "virtual": false,
+      "totalTime": 5,
+      "invokeCount": 1,
+      "sourceSize": 2390,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/middleware/manifest-route-rule.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 61
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:define",
+          "transform": 12
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 1
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 75,
+      "invokeCount": 1,
+      "sourceSize": 527,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/nuxt.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 26
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:define",
+          "transform": 33
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 61
+        },
+        {
+          "name": "alias",
+          "resolveId": 14
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        }
+      ],
+      "virtual": false,
+      "totalTime": 59,
+      "invokeCount": 1,
+      "sourceSize": 7278,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/plugins/revive-payload.server.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 32
+        }
+      ],
+      "virtual": false,
+      "totalTime": 32,
+      "invokeCount": 1,
+      "sourceSize": 1177,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/app/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 2,
+      "invokeCount": 1,
+      "sourceSize": 84,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/head/runtime/plugins/unhead.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 43
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 43,
+      "invokeCount": 1,
+      "sourceSize": 1315,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/pages/runtime/page.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 86
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 87,
+      "invokeCount": 1,
+      "sourceSize": 5920,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/pages/runtime/plugins/router.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 35
+        },
+        {
+          "name": "replace",
+          "transform": 5
+        },
+        {
+          "name": "vite:define",
+          "transform": 30
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 4
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 4
+        }
+      ],
+      "virtual": false,
+      "totalTime": 78,
+      "invokeCount": 1,
+      "sourceSize": 8341,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/pages/runtime/router.options.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 56
+        },
+        {
+          "name": "vite:define",
+          "transform": 18
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 74,
+      "invokeCount": 1,
+      "sourceSize": 1742,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/pages/runtime/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 60
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 60,
+      "invokeCount": 1,
+      "sourceSize": 873,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/nuxt/dist/pages/runtime/validate.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 56
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:define",
+          "transform": 17
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 0
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 74,
+      "invokeCount": 1,
+      "sourceSize": 974,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/node_modules/unctx/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 63
+        },
+        {
+          "name": "vite:define",
+          "transform": 24
+        }
+      ],
+      "virtual": false,
+      "totalTime": 87,
+      "invokeCount": 1,
+      "sourceSize": 3878,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/pages/home.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 62
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 63,
+      "invokeCount": 1,
+      "sourceSize": 27,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/pages/home.vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 55
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 0
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 56,
+      "invokeCount": 1,
+      "sourceSize": 27,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/pages/page.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 60
+        },
+        {
+          "name": "vite:vue",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 60,
+      "invokeCount": 1,
+      "sourceSize": 27,
+      "distSize": 0
+    },
+    {
+      "id": "C:/Users/sarah/nuxt-starter/pages/page.vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 57
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 0
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 58,
+      "invokeCount": 1,
+      "sourceSize": 27,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/app-component.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 62,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/components.islands.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 105,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/components.plugin.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 117,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/css.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 10
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 10
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 40,
+      "sourceSize": 0,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/error-component.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 112,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/fetch.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 10
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 168,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/middleware.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 5
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 336,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/nuxt.config.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 10
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        },
+        {
+          "name": "alias",
+          "resolveId": 5
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 1165,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/pages.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 53,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/paths.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 10
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 641,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/plugins/server.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 10
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 594,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/root-component.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 10
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 106,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/router.options.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 5
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 251,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/routes.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 5
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 875,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/unhead-plugins.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 5
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 17,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:C:/Users/sarah/nuxt-starter/.nuxt/vue-router-stub.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 5
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 27,
+      "distSize": 0
+    }
+  ]
+}
